@@ -37,11 +37,11 @@
 参考[设备支持状态](https://www.kdocs.cn/l/cjI6xbkJFxs2?f=201)
 **使用刷机方法刷至Windows on ARM并运行MC客户端应该是最后才考虑的方法，否则我们并不推荐你这样做！**
 
-### 安装JDK17环境
+### 安装JDK21环境
 
 ![img](https://lfs.k.topthink.com/lfs/9dd2b6768611900f8ef42ad4c0768ed18f52d5395b4d89309d64f5f85a1ac129.dat)
 
-下载`ZuluJDK-17.msi`并双击启动安装程序.
+下载`ZuluJDK-21.msi`并双击启动安装程序.
 
 ![img](https://lfs.k.topthink.com/lfs/85afe803a1960a072661c71732d9813a5a36229deecaf2ceef0d530154b27426.dat)
 
@@ -51,88 +51,15 @@
 
 ![img](https://lfs.k.topthink.com/lfs/b45cac993ed0388df36be2e11afd7e1a22e293d9a6891b100e10b9676320c2cf.dat)
 
-下载`枫叶源AutumnCraft x.x.x.mrpack`并右键
+下载`枫叶源AutumnCraft 4.x.x.zip并解压
 
-![img](https://lfs.k.topthink.com/lfs/5e5458caf4fd99597bc13148c3937128611c23dcf66fbbb95e7ad751c0978907.dat) 点击`打开所在文件夹`备用.
+![](https://img.picui.cn/free/2025/03/09/67cd798908ab8.png)
 
-随后打开HMCL或者PCL启动器
+双击PCL启动器，随后会自动安装客户端。
 
-### HMCL
+![](https://img.picui.cn/free/2025/03/09/67cd798909950.png)
 
-为惯用HMCL启动器者所写.
-
-#### 安装客户端
-
-![img](https://lfs.k.topthink.com/lfs/e15f8411cea3e6d1d80bd6484d5fcc2ca22e81268225165f6a6f5c3ffc7a83d4.dat)
-
-将`枫叶源AutumnCraft x.x.x.mrpack`拖到HMCL启动器的空白处.
-
-![img](https://lfs.k.topthink.com/lfs/5377228a7f4fe95c861e4496ebd620e3350e9af743c8bfa3e9f6fc9f2346883b.dat)
-
-点击`安装` 等待安装完成.
-
-#### 使用LittleSkin登录
-
-![img](https://lfs.k.topthink.com/lfs/725a0b8a79383e1300bba3af39eb66e8d7d3bd91284229abfd9fb448f3012aba.dat)
-
-![img](https://lfs.k.topthink.com/lfs/b49dfcefe8a214d13cfb58793fe7f10cf237abe5d1b6ca165a99cc1f8101a0b4.dat)
-
-填写你在LittleSkin的账户和密码，点击`登录`即可.
-
-#### 添加JVM参数
-
-![img](https://lfs.k.topthink.com/lfs/c40ace1178cb9362e8953820fc9e384a72f7453a5bc2c87a394d6a5dbb8debf7.dat)
-
-![img](https://lfs.k.topthink.com/lfs/5e13ba6b1288d0db00de028f3faff4f0ea402cfb390a7b4a70a83bc27a7c3395.dat)
-
-![img](https://lfs.k.topthink.com/lfs/891362aa94953c7856dc46521f3e126ca72801fcab4927b2fa27a3ca1e7e08ba.dat)
-
-在“Java 虚拟机参数”中 填入 `-javaagent:mcpatch-c/mcpatch-loader-v2.jar -javaagent:dac-agent-7.1.90.jar`
-
-#### 完成！
-
-返回主页，点击`启动游戏`！
-
-### PCL
-
-为惯用PCL启动器者所写.
-
-#### 安装客户端
-
-![img](https://lfs.k.topthink.com/lfs/77115d9d4308112d90094ce36a9e16eaafa4ba8ed3b3ed1734003524143795c9.dat)
-
-将`枫叶源AutumnCraft x.x.x.mrpack`拖到PCL启动器的空白处.
-
-随后PCL会开始安装.
-
-#### 使用LittleSkin登录
-
-单击 版本选择，找到枫叶源AutumnCraft客户端
-
-![img](https://lfs.k.topthink.com/lfs/1818df3aad8afd03714b02540b4f126f4627dc5e84dfc700c9be7ff3381e7701.dat)
-
-如图所示，单击 设置
-
-![img](https://lfs.k.topthink.com/lfs/3c9267f9c87327eb56ad471b4fda65e1aac140420f4c090ccf0c358550274a2b.dat)
-
-如图所示，单击 设置
-
-![img](https://lfs.k.topthink.com/lfs/0f1fcdd84d58782db3f0834534828818edbe91d51f4a1a799555bfb580ff4a01.dat)
-
-滑倒最底下 如图所示 依次单击1️⃣2️⃣3️⃣
-
-![img](https://lfs.k.topthink.com/lfs/0d4bad1dd10e01c00ab4d0bba03ff64bd20e292f419db35fa3bed220fce267bb.dat)
-回到界面后输入你在LittleSkin注册的邮箱和密码.
-
-#### 添加JVM参数
-
-![img](https://lfs.k.topthink.com/lfs/699345dcaede48228bf1a86483aab2ce0a74e3eb1b66279b2f55f37eee9ab5c7.dat)
-
-![img](https://lfs.k.topthink.com/lfs/d1d96a2ae4bf284cb8b2965bd213f3d7ba00300bbaa9dad47c3c35daea6c514e.dat)
-
-![img](https://lfs.k.topthink.com/lfs/c6fcc98dc0e0d778f5bf24b9eb202467d56b200141bde31fd6752cbcc20482b4.dat)
-
-在“Java 虚拟机参数”中 填入 `-javaagent:mcpatch-c/mcpatch-loader-v2.jar -javaagent:dac-agent-7.1.90.jar`
+安装完成后填写你的LittleSkin账号密码，点击启动游戏！
 
 #### 完成！
 
