@@ -12,7 +12,7 @@ sidebar_position: 1
 
 ## 服务器信息
 
-枫叶源是一个 **Arclight** **1.21.1 NeoForge(+Bukkit+Spigot**) 服务器，客户端基于 **ATM10** 制作，主要内容是 **冒险、魔法、工业**，内包含了许多有趣的模组，支持LittleSkin登录。 枫叶源的服务器配置性能强劲，采用**AMD R9-5950X \*32C32G+\*Ubuntu+MCSManager 物理机**的配置，管理更加现代化
+枫叶源是一个 **Mohist** **1.20.1 Forge(+Bukkit+Spigot**) 服务器，客户端基于 **ATM9** 制作，主要内容是 **冒险、魔法、工业**，内包含了许多有趣的模组，支持LittleSkin登录。 枫叶源的服务器配置性能强劲，采用**AMD R9-5950X \*32C32G+\*Ubuntu+MCSManager 物理机**的配置，管理更加现代化
 
 ![img](https://img.picui.cn/free/2025/03/01/67c28b16a88c9.png)
 
