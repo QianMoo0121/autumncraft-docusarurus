@@ -12,10 +12,10 @@ sidebar_position: 1
 
 ## 服务器信息
 
-枫叶源AUTUMNCRAFT是一个 **Mohist** **1.20.1 实施了Forge BukkitAPI+SpigotAPI** 服务器，客户端基于 **ATM9** 制作，主要内容是 **冒险、魔法、工业**，内包含了许多有趣的模组，支持LittleSkin登录。 枫叶源的服务器配置性能强劲，采用**AMD R9-9950X \*32C64G+\*Debian+MCSManager 物理机**的配置，管理更加现代化
+枫叶源AUTUMNCRAFT是一个 **Arclight** **1.21.1 实施了Neoorge BukkitAPI+SpigotAPI** 服务器，客户端基于 **ATM10** 制作，主要内容是 **冒险、魔法、工业**，内包含了许多有趣的模组，支持LittleSkin登录。 枫叶源的服务器配置性能强劲，采用**AMD R9-9950X \*32C64G+\*Debian+MCSManager 物理机**的配置，管理更加现代化
 
 
-枫叶源SATURN是一个 **Fluorite** **1.19.2 实施了Forge+BukkitAPI** 服务器，客户端基于 **脆骨症·黯光** 制作，主要内容是 **冒险、魔法、工业**，内包含了许多有趣的模组，支持LittleSkin登录。 枫叶源的服务器配置性能强劲，采用**Intel Core i9-13900K \*4C24G+\*Debian12+MCSManager VPS**的配置，管理更加现代化
+枫叶源SATURN是一个 **Mohist** **1.20.1 实施了Forge+BukkitAPI** 服务器，客户端基于 **All the AUTUMN** 制作，主要内容是 **冒险、魔法、工业**，内包含了许多有趣的模组，支持LittleSkin登录。 枫叶源的服务器配置性能强劲，采用**Intel Core i9-13900K \*4C24G+\*Debian12+MCSManager VPS**的配置，管理更加现代化
 
 Q群：807070559
 
@@ -40,5 +40,5 @@ Q群：807070559
 - 2025年4月 枫叶源达到鼎盛时期：全服在线22人，日活5~12人。
 - 2025年4月5日 枫叶源5周年合照，到场玩家27人。
 - 2025年4月10日 枫叶源SATURN(二区) 成立！服主：Paranoia4
-
+- 2025年5月1日 枫叶源服主更换：Sink_Into
 ( ***32C32G：32C指逻辑核心，物理核心为16C 32G为16G\*2**)
