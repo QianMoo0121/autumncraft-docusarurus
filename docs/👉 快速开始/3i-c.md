@@ -51,7 +51,7 @@
 
 ![img](https://lfs.k.topthink.com/lfs/b45cac993ed0388df36be2e11afd7e1a22e293d9a6891b100e10b9676320c2cf.dat)
 
-下载`枫叶源AutumnCraft 4.x.x.zip并解压
+下载`枫影轻语AutumnCraft 4.x.x.zip并解压
 
 ![](https://img.picui.cn/free/2025/03/09/67cd798908ab8.png)
 
