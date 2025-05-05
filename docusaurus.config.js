@@ -122,7 +122,7 @@ const config = {
                 href: 'https://wwww.newnan.city/',
               },
               {
-                label: 'MSCPO宣传组织'
+                label: 'MSCPO宣传组织',
                 href: 'https://mscpo.crashvibe.cn/',
               },
             ],
