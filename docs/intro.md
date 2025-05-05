@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 👋 欢迎来到枫影轻语！
 
-你好新人，欢迎来到 枫影轻语AUTUMNBREEZE 服务器！（简称“枫叶源”）
+你好新人，欢迎来到 枫影轻语AUTUMNBREEZE 服务器！（简称“枫影ABREEZE”）
 
 ## 服务器性质
 
