@@ -123,8 +123,8 @@ const config = {
               },
               {
                 label: 'MSCPO宣传组织'
-                href: 'https://mscpo.crashvibe.cn/'
-              }
+                href: 'https://mscpo.crashvibe.cn/',
+              },
             ],
           },
           {
