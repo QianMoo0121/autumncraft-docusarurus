@@ -1,6 +1,6 @@
-# 枫叶源AUTUMNCRAFT 文档
+# 枫影轻语AUTUMNBREEZE 文档
 
-Hello 各位热爱枫叶源的玩家，枫叶源文档站点基于 [Docusaurus](https://docusaurus.io/) 构建, Docusaurus是一个现代化的快速站点生成工具！
+Hello 各位热爱枫叶源的玩家，枫影轻语AUTUMNBREEZE站点基于 [Docusaurus](https://docusaurus.io/) 构建, Docusaurus是一个现代化的快速站点生成工具！
 
 注意！未经允许的情况下，你不得以任何形式将枫叶源文档二次公开。如本文档有误，欢迎随时提出Issue或PR.
 

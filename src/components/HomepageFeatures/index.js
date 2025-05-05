@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/1.svg').default,
     description: (
       <>
-        用最简单的语言帮助你快速了解枫叶源
+        用最简单的语言帮助你快速了解枫影轻语
       </>
     ),
   },

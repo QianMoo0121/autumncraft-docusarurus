@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: '枫叶源AutumnCraft',
+  title: '枫影轻语AUTUMNBREEZE',
   tagline: '助力新人快速了解服务器',
   favicon: 'img/favicon.ico',
 
@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'QianMo_ProMax', // Usually your GitHub org/user name.
-  projectName: '枫叶源AutumnCraft', // Usually your repo name.
+  organizationName: 'QianMoo0121', // Usually your GitHub org/user name.
+  projectName: 'autumncraft-docusarurus', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -91,7 +91,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: '枫叶源AutumnCraft',
+        title: '枫影轻语AUTUMNBREEZE',
         logo: {
           alt: '助力新人快速了解服务器',
           src: 'img/logo.svg',
@@ -121,6 +121,10 @@ const config = {
                 label: '牛腩小镇',
                 href: 'https://wwww.newnan.city/',
               },
+              {
+                label: 'MSCPO宣传组织'
+                href: 'https://mscpo.crashvibe.cn/'
+              }
             ],
           },
           {
@@ -132,21 +136,22 @@ const config = {
               },
               {
                 label: 'KOOK',
-                href: 'https://kook.vip/kvENs5',
+                href: 'https://kook.vip/kvENs5/',
               },
             ],
           },
+          
           {
             title: '更多',
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/QianMoo0121',
+                href: 'https://github.com/QianMoo0121/autumncraft-docusarurus',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 枫叶源AutumnCraft All rights reserved. 感谢 Docusaurus 提供文档框架；感谢 Vercel 提供建站平台.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 枫影轻语AUTUMNBREEZE All rights reserved. 感谢 Docusaurus 提供文档框架；感谢 Vercel 提供建站平台.`,
       },
       prism: {
         theme: prismThemes.github,
