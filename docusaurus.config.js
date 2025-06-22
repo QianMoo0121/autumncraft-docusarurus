@@ -118,10 +118,6 @@ const config = {
             title: '友情链接',
             items: [
               {
-                label: '牛腩小镇',
-                href: 'https://wwww.newnan.city/',
-              },
-              {
                 label: 'MSCPO宣传组织',
                 href: 'https://mscpo.crashvibe.cn/',
               },
